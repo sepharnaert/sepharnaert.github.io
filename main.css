@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+
+fieldset{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+a :hover{
+    text-decoration: underline;
+    color: darkblue;
+}
