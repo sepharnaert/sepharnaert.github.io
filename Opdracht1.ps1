@@ -1,5 +1,7 @@
 ﻿#Automatiseren installaties
 
+#Set-ExecutionPolicy Bypass -Scope CurrentUser -Force
+
 $host.PrivateData.ConsolePaneBackgroundColor = "Black"
 $host.PrivateData.ConsolePaneForegroundColor = "Green"
 $host.PrivateData.ConsolePaneTextBackgroundColor = "Black"
